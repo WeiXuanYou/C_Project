@@ -1,0 +1,1 @@
+this is the test file for program 13-4-1-2.c you can also with any text you wish!
